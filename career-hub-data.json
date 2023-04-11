@@ -13,8 +13,8 @@
       "job_responsibility": "Design, develop, and maintain software applications...",
       "educational_requirements": "Bachelor's or Master's degree in Computer Science...",
       "experiences": "3+ years of experience in software development...",
-        "phone": "(555) 123-4567",
-        "email": "careers@abcinc.com"
+      "phone": "(555) 123-4567",
+      "email": "careers@abcinc.com"
     },
     {
       "id": "2",
@@ -29,10 +29,9 @@
       "job_responsibility": "Develop and execute marketing campaigns...",
       "educational_requirements": "Bachelor's degree in Marketing or related field...",
       "experiences": "5+ years of experience in marketing...",
-     
-        "phone": "(555) 987-6543",
-        "email": "careers@xyzcorp.com"
-      
+
+      "phone": "(555) 987-6543",
+      "email": "careers@xyzcorp.com"
     },
     {
       "id": "3",
@@ -48,9 +47,8 @@
       "educational_requirements": "Bachelor's degree in Graphic Design or related field...",
       "experiences": "2+ years of experience in graphic design...",
 
-        "phone": "(555) 555-5555",
-        "email": "careers@lmnco.com"
-      
+      "phone": "(555) 555-5555",
+      "email": "careers@lmnco.com"
     },
     {
       "id": "4",
@@ -65,10 +63,9 @@
       "job_responsibility": "Handle customer inquiries and complaints...",
       "educational_requirements": "High school diploma or equivalent...",
       "experiences": "1+ years of experience in customer service...",
-      "contact_information": {
-        "phone": "(555) 111-1111",
-        "email": "careers@pqrcorp.com"
-      }
+
+      "phone": "(555) 111-1111",
+      "email": "careers@pqrcorp.com"
     },
     {
       "id": "5",
@@ -84,9 +81,8 @@
       "educational_requirements": "Bachelor's or Master's degree in Computer Science, Statistics, or related field...",
       "experiences": "3+ years of experience in data science or related field...",
 
-        "phone": "(555) 456-7890",
-        "email": "careers@acmecorp.com"
-      
+      "phone": "(555) 456-7890",
+      "email": "careers@acmecorp.com"
     },
     {
       "id": "6",
